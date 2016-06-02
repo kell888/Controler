@@ -1,0 +1,197 @@
+[2015-06-27 04:53:27] sp.Open
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 42
+
+[2015-06-27 04:53:33] sp.Open
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 42
+
+[2015-06-27 04:56:19] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:25] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:26] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:27] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:29] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:30] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:31] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:32] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:32] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:33] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:33] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:34] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:34] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:36] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:36] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:37] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:37] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:38] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:38] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:39] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:39] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:40] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:40] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:41] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:56:41] Send
+System.UnauthorizedAccessException: 对端口“COM4”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellControlServer.Action.Send(Int32 k, Boolean set, Boolean read) 位置 E:\KellControler\KellControlServer\Action.cs:行号 43
+
+[2015-06-27 04:59:06] client.Running
+System.Net.Sockets.SocketException: 由于目标机器积极拒绝，无法连接。 122.114.39.219:8888
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 DataTransfer.Client.Running() 位置 F:\2015\KellTerminal\DataTransfer\Client.cs:行号 71
+   在 KellControlServer.Program.Main() 位置 E:\KellControler\KellControlServer\Program.cs:行号 67
+

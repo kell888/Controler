@@ -1,0 +1,10 @@
+F:\2015\KellControler\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\2015\KellControler\DBHelper\bin\Debug\DBHelper.dll
+F:\2015\KellControler\DBHelper\bin\Debug\DBHelper.pdb
+F:\2015\KellControler\DBHelper\obj\Debug\DBHelper.dll
+F:\2015\KellControler\DBHelper\obj\Debug\DBHelper.pdb
+E:\KellControler\DBHelper\bin\Debug\DBHelper.dll
+E:\KellControler\DBHelper\bin\Debug\DBHelper.pdb
+E:\KellControler\DBHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\KellControler\DBHelper\obj\Debug\DBHelper.dll
+E:\KellControler\DBHelper\obj\Debug\DBHelper.pdb
